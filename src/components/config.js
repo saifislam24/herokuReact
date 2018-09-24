@@ -1,0 +1,1 @@
+export const myConfig = { apiUrl: 'http://35.163.239.123/'};
